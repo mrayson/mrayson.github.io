@@ -103,14 +103,20 @@ COARE3.0 Algorithm
 
 ---
 
-## Example solution
-
-*Example movie of temperature response*
+<video width="800" height="600" controls>
+   <source src="FIGURES/Vance_4km_T_z100m.mp4" type="video/mp4">
+</video> 
 
 ---
 
 ## Water temperature response
+
 <img src="FIGURES/Temp_Comparison.png" height="420" align=right>
+
+Red: model
+
+Blue: observed
+
 
 ---
 
@@ -171,7 +177,7 @@ Ref: *Halliwell et al., 2011, MWR*
  >- When $\omega>f$ --> vertical energy propagation
  >- Dominates ocean variability post-storm i.e., large velocities
  >- Large length and time scales means higher integrated work done on the seabed
- >- Increased seabed dissipation: potentially increased sediment transport
+ >- Increased seabed shear: potentially increased sediment transport
 
 
 ---
@@ -189,16 +195,12 @@ $$
 ---
 
 ## Wind Work
-<img src="FIGURES/WindWork_maps.png" height="480" align=right>
-
- $W_{wind} = \vec{\tau}\cdot \mathbf{u}$
+<img src="FIGURES/WindWork_maps.png" height="480" align="middle">
 
 ---
 
 ## Near-Inertial Kinetic Energy
-
-<img src="FIGURES/dKE_dt_maps.png" height="480" align=right>
-$\overline{KE}_i(x,~y)= \int\limits_{-H}^{\eta} KE_I(x,~y,~z)~dz $
+<img src="FIGURES/dKE_dt_maps.png" height="480" align="middle">
 
 ---
 
@@ -216,6 +218,15 @@ TC Monty     63          3      1      3       2 %            47 %
 
 TC Glenda    56          14     4      8       7 %            26 %    
 ----------------------------------------------------------------------
+
+ - 1 - 2 GW to generate internal tide on entire NWS
+
+---
+
+$$
+\hat{P} = \frac{\partial\overline{KE}_{I}/\partial t}{\rho_0 u_*^4/(f h_{mix})}
+$$
+<img src="FIGURES/Regime_Scatter.png" height="480" align="right">
 
 ---
 
@@ -298,6 +309,8 @@ Rayson, M. D., G. N. Ivey, N. L. Jones, R. Lowe, G. W. Wake and J. D. McChonochi
 **Contact:**
 
     matt.rayson@gmail.com
+    greg.ivey@uwa.edu.au
+    nicole.jones@uwa.edu.au
 
 ## Thank you
 

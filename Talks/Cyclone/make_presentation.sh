@@ -14,5 +14,5 @@ pandoc -s --mathjax -t dzslides ROMSCycloneTalk.md\
 #        -V transition="none" \
 #        #--self-contained 
 
-firefox $OUTPUT#20.0
+firefox $OUTPUT#17.0
 
