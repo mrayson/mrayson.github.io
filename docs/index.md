@@ -14,13 +14,11 @@ See my [Research](Research.md) page for more details.
 
 *Matthew D. Rayson*
 
-*Post Doctoral Scholar*
+*Research Associate*
 
-*Environmental Fluid Mechanics Laboratory*
+*School of Civil Environmental and Mining Engineering and the Oceans Institute*
 
-*Department of Civil and Environmental Engineering*
-
-*Stanford Univeristy*
+*University of Western Australia*
 
 *matt dot rayson at gmail dot com*
 
