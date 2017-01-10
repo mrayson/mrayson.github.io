@@ -1,11 +1,13 @@
-![Lee Waves](images/YosemiteLeeWave480.JPG "Atmospheric lee waves over Half Dome")
+<!-- ![Lee Waves](images/YosemiteLeeWave480.JPG "Atmospheric lee waves over Half Dome") -->
 
-I am a physical oceanographer / environmental fluid dynamicist / numericist presently developing a three-dimensional circulation model for Galveston Bay, Texas using the [SUNTANS](http://www.stanford.edu/group/suntans/cgi-bin/index.php) ocean model code. The aim of this project is to develop a better tool for understanding the transport of oil within the bays and estuaries of the Gulf of Mexico. 
+I am a physical oceanographer / environmental fluid dynamicist / numericist working on the metocean component of the ARC Industrial Transformation Research Hub for Offshore Floating Facilities. Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at Stanford University, where I developed numerical modelling tools to study the circulation in the bays and estuaries along the Gulf of Mexico coast with the application of quantifying oil spill transport. 
 
 My general research interests include:
 
+- Tide-topography interactions including internal tide generation
+- Storm-generated near-intertial waves
+- Nonlinear internal waves
 - Hydrodynamic modelling of coastal ocean and estuarine physics
-- Tide-topography interactions including internal waves
 - Transport processes in the coastal ocean
 
 See my [Research](Research.md) page for more details. 
@@ -14,7 +16,7 @@ See my [Research](Research.md) page for more details.
 
 *Matthew D. Rayson*
 
-*Research Associate*
+*Research Fellow*
 
 *School of Civil Environmental and Mining Engineering and the Oceans Institute*
 
