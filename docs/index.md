@@ -1,11 +1,12 @@
 <!-- ![Lee Waves](images/YosemiteLeeWave480.JPG "Atmospheric lee waves over Half Dome") -->
+![Me](images/portrait.JPG)
 
-I am a physical oceanographer / environmental fluid dynamicist / numericist working on the metocean component of the ARC Industrial Transformation Research Hub for Offshore Floating Facilities. Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at Stanford University, where I developed numerical modelling tools to study the circulation in the bays and estuaries along the Gulf of Mexico coast with the application of quantifying oil spill transport. 
+I am a physical oceanographer / environmental fluid dynamicist / numericist working on the metocean component of the ARC Industrial Transformation Research Hub for Offshore Floating Facilities at the University of Western Australia. Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at Stanford University, where I developed numerical modelling tools to study the circulation in the bays and estuaries along the Gulf of Mexico coast with the application of quantifying oil spill transport. 
 
 My general research interests include:
 
 - Tide-topography interactions including internal tide generation
-- Storm-generated near-intertial waves
+- Storm-generated near-inertial waves
 - Nonlinear internal waves
 - Hydrodynamic modelling of coastal ocean and estuarine physics
 - Transport processes in the coastal ocean

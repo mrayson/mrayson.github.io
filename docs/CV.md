@@ -5,6 +5,13 @@
 - B.E. (Applied Ocean Science), University of Western Australia, 2006
 
 ## *Work Experience*
+
+####**Research Fellow, University of Western Australia, Perth, WA**
+January 2016 – Present
+
+- Metocean component of the ARC Industrial Transformation Research Hub for Offshore Floating Facilities
+- Apply knowledge of oceanographic processes to the design and operation of offshore infrastructure
+
 ####**Post-doctoral Scholar, Stanford University, Stanford, California**
 June 2012 to July 2015
 
@@ -42,6 +49,7 @@ November 2007 to December 2011
 
 ## *Conference and Symposium Presentations*
 
+- VIII International Symposium on Stratified Flows, Observations of high frequency internal waves and strong turbulent mixing in a channel flow between two coral atolls, San Diego, USA, September 2016
 - SIAM Geosciences 2015, Challenges in Three-Dimensional Hydrodynamic Modelling of the Shallow Bays and Estuaries Along the Gulf of Mexico Coast, Stanford University, Stanford, California, July 2015
 - Gordon Research Seminar on Coastal Ocean Modeling, Time scales in an unsteady estuary, University of New England, Maine, June 2015
 - 2015 Gulf of Mexico Oil Spill and Ecosystem Science Conference, Physical processes controlling tracer exchange at the mouth of a Gulf coast estuary, Houston, Texas, February 2015
@@ -84,6 +92,7 @@ November 2007 to December 2011
 
 ## *Professional Memberships*
 
+Australian Fluid Mechanics Society
 American Geophysical Union
 
 

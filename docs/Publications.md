@@ -13,10 +13,10 @@ Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., Combining determini
 
 ## Submitted / Under Revision
 
-Rayson, M. D., E. S. Gross, R. D. Hetland and O. B. Fringer (2015), Salinity variability in an unsteady estuary with transient forcing, *submitted to Journal of Physical Oceanography*
+Rayson, M. D., E. S. Gross, R. D. Hetland and O. B. Fringer (2017), Using an isohaline flux analysis to predict the salt content in an unsteady, *under review Journal of Physical Oceanography*
 
 ## In preparation
-Rayson, M. D., G. N. Ivey, N. L. Jones and O. B. Fringer (2013), Internal hydraulic jump formation in a deep water, continuously stratified channel, *in preparation.*
+Rayson, M. D., G. N. Ivey, N. L. Jones and O. B. Fringer (2016), Internal hydraulic jump formation in a deep water, continuously stratified channel, *in preparation.*
 
 
 ## Thesis
