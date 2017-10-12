@@ -1,4 +1,9 @@
 # Publications
+
+**Rayson, M. D.**, E. S. Gross, R. D. Hetland and O. B. Fringer (2017), Using an isohaline flux analysis to predict the salt content in an unsteady, *Journal of Physical Oceanography*, (*accepted*)
+
+Sasmal, K., E. Masunaga, A. Webb, O. B. Fringer, Gross E. S., **M. D. Rayson**, H Yamizaki, A three dimensional numerical study of river plume mixing processes in Otsuchi Bay, Japan, *Journal of Oceanography*, (*accepted*)
+
 **Rayson, M. D.**, E. S. Gross, R. D. Hetland and O. B. Fringer (2016), Time scales in an unsteady estuary: Galveston Bay, TX, *J. Geophys. Res.*, [link](http://onlinelibrary.wiley.com/doi/10.1002/2015JC011181/full)
 
 **Rayson, M. D.**, G. N. Ivey, N. L. Jones, R. Lowe, G. W. Wake and J. D. McChonochie (2015), Near-inertial ocean response to tropical cyclone forcing on the Australian North-West Shelf, *J. Geophys. Res.* [link](http://onlinelibrary.wiley.com/doi/10.1002/2015JC010868/full)
@@ -13,14 +18,16 @@ Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., Combining determini
 
 ## Submitted / Under Revision
 
-Rayson, M. D., E. S. Gross, R. D. Hetland and O. B. Fringer (2017), Using an isohaline flux analysis to predict the salt content in an unsteady, *under review Journal of Physical Oceanography*
+Rayson, M. D., G. N. Ivey, N. L. Jones and O. B. Fringer (2017), Resolving high-frequency internal waves generated at an isolated coral atoll using an unstructured grid ocean model, *Ocean Modelling*, (*under review*)
 
 ## In preparation
-Rayson, M. D., G. N. Ivey, N. L. Jones and O. B. Fringer (2016), Internal hydraulic jump formation in a deep water, continuously stratified channel, *in preparation.*
 
+## Datasets
 
-## Thesis
+**Rayson, M. D.**, Gross, E.S., Hetland, R. D., Fringer, O.B.. 2017. Hourly output from a three-dimensional hydrodynamic simulation of Galveston Bay, Texas, for the period March-August 2009 using the unstructured SUNTANS model . Gulf of Mexico Integrated Spill Response Consortium (GISR). [DOI: 10.7266/N77H1H0B](https://data.gulfresearchinitiative.org/data/R1.x137.000:0017)
+
+## PhD Thesis
  	
-[*The tidally-driven ocean dynamics of the Browse Basin and Kimberley Shelf region, Western Australia*](http://stanford.edu/~mrayson/Docs/MRaysonPhDThesis.pdf)
+[*The tidally-driven ocean dynamics of the Browse Basin and Kimberley Shelf region, Western Australia*](http://research-repository.uwa.edu.au/files/3244647/Rayson_Matthew_D_2011.pdf)
 
 
