@@ -1,6 +1,6 @@
 # Publications
 
-**Rayson, M. D.**, E. S. Gross, R. D. Hetland and O. B. Fringer (2017), Using an isohaline flux analysis to predict the salt content in an unsteady, *Journal of Physical Oceanography*, (*accepted*)
+**Rayson, M. D.**, E. S. Gross, R. D. Hetland and O. B. Fringer (2017), Using an isohaline flux analysis to predict the salt content in an unsteady estuary, *Journal of Physical Oceanography*, (*accepted*)
 
 Sasmal, K., E. Masunaga, A. Webb, O. B. Fringer, E. S. Gross, **M. D. Rayson**, H Yamizaki, (2017) A three dimensional numerical study of river plume mixing processes in Otsuchi Bay, Japan, *Journal of Oceanography*, (*accepted*)
 
