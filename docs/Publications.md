@@ -2,7 +2,7 @@
 
 **Rayson, M. D.**, E. S. Gross, R. D. Hetland and O. B. Fringer (2017), Using an isohaline flux analysis to predict the salt content in an unsteady, *Journal of Physical Oceanography*, (*accepted*)
 
-Sasmal, K., E. Masunaga, A. Webb, O. B. Fringer, Gross E. S., **M. D. Rayson**, H Yamizaki, A three dimensional numerical study of river plume mixing processes in Otsuchi Bay, Japan, *Journal of Oceanography*, (*accepted*)
+Sasmal, K., E. Masunaga, A. Webb, O. B. Fringer, E. S. Gross, **M. D. Rayson**, H Yamizaki, (2017) A three dimensional numerical study of river plume mixing processes in Otsuchi Bay, Japan, *Journal of Oceanography*, (*accepted*)
 
 **Rayson, M. D.**, E. S. Gross, R. D. Hetland and O. B. Fringer (2016), Time scales in an unsteady estuary: Galveston Bay, TX, *J. Geophys. Res.*, [link](http://onlinelibrary.wiley.com/doi/10.1002/2015JC011181/full)
 
@@ -10,7 +10,7 @@ Sasmal, K., E. Masunaga, A. Webb, O. B. Fringer, Gross E. S., **M. D. Rayson**, 
 
 **Rayson, M. D.**, E. S. Gross and O. B. Fringer (2015), Modeling the tidal and sub-tidal hydrodynamics in a shallow, micro-tidal estuary, *Ocean Modelling*, 89, p 29 - 34, [link](http://www.sciencedirect.com/science/article/pii/S1463500315000207)
 
-Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., Combining deterministic modelling with artificial neural networks for suspended sediment estimates, Applied Soft Computing, Vol. 35, October 2015, http://dx.doi.org/10.1016/j.asoc.2015.05.044.
+Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., (2015), Combining deterministic modelling with artificial neural networks for suspended sediment estimates, Applied Soft Computing, Vol. 35, October 2015, http://dx.doi.org/10.1016/j.asoc.2015.05.044.
 
 **Rayson, M. D.**, G. N. Ivey and N. L. Jones (2012), Temporal variability of the standing internal tide in the Browse Basin, *J. Geophys. Res.*, [link](http://onlinelibrary.wiley.com/doi/10.1029/2011JC007523/abstract).
 
@@ -20,11 +20,11 @@ Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., Combining determini
 
 Rayson, M. D., G. N. Ivey, N. L. Jones and O. B. Fringer (2017), Resolving high-frequency internal waves generated at an isolated coral atoll using an unstructured grid ocean model, *Ocean Modelling*, (*under review*)
 
-## In preparation
+## In Preparation
 
 ## Datasets
 
-**Rayson, M. D.**, Gross, E.S., Hetland, R. D., Fringer, O.B.. 2017. Hourly output from a three-dimensional hydrodynamic simulation of Galveston Bay, Texas, for the period March-August 2009 using the unstructured SUNTANS model . Gulf of Mexico Integrated Spill Response Consortium (GISR). [DOI: 10.7266/N77H1H0B](https://data.gulfresearchinitiative.org/data/R1.x137.000:0017)
+**Rayson, M. D.**, Gross, E.S., Hetland, R. D., Fringer, O.B.. (2017) Hourly output from a three-dimensional hydrodynamic simulation of Galveston Bay, Texas, for the period March-August 2009 using the unstructured SUNTANS model . Gulf of Mexico Integrated Spill Response Consortium (GISR). [DOI: 10.7266/N77H1H0B](https://data.gulfresearchinitiative.org/data/R1.x137.000:0017)
 
 ## PhD Thesis
  	

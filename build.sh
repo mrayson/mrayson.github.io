@@ -1,8 +1,9 @@
-
+#!/usr/bin/sh
 # Cannot build in our own directory
-cp mkdocs.yml ../
-cp -r docs/ ../
-cd ../
+MAKEDIR=../
+cp mkdocs.yml $MAKEDIR
+cp -r docs/ $MAKEDIR
+cd $MAKEDIR
 mkdocs build
 
 #sitedir=mrayson.github.io
