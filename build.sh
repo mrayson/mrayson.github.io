@@ -6,8 +6,8 @@ cp -r docs/ $MAKEDIR
 cd $MAKEDIR
 mkdocs build
 
-#sitedir=mrayson.github.io
-sitedir=website
+sitedir=mrayson.github.io
+#sitedir=website
 mv mkdocs.yml $sitedir
 cp -r site_tmp/* $sitedir
 rm -r site_tmp
