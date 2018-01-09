@@ -1,5 +1,7 @@
 # Publications
 
+**Rayson, M. D.**, G. N. Ivey, N. L. Jones and O. B. Fringer (2017), Resolving high-frequency internal waves generated at an isolated coral atoll using an unstructured grid ocean model, *Ocean Modelling*, [link](https://doi.org/j.ocemod.2017.12.007)
+
 **Rayson, M. D.**, E. S. Gross, R. D. Hetland and O. B. Fringer (2017), Using an isohaline flux analysis to predict the salt content in an unsteady estuary, *Journal of Physical Oceanography*, (*accepted*)
 
 Sasmal, K., E. Masunaga, A. Webb, O. B. Fringer, E. S. Gross, **M. D. Rayson**, H Yamizaki, (2017) A three dimensional numerical study of river plume mixing processes in Otsuchi Bay, Japan, *Journal of Oceanography*, (*accepted*)
@@ -17,8 +19,6 @@ Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., (2015), Combining d
 **Rayson, M. D.**, G. N. Ivey, N. L. Jones, M. J. Meuleners, and G. W. Wake (2011), Internal tide dynamics in a topographically complex region: Browse Basin, Australian North West Shelf, *J. Geophys. Res.*, 116, C01016, [link](http://onlinelibrary.wiley.com/doi/10.1029/2009JC005881/abstract). 
 
 ## Submitted / Under Revision
-
-Rayson, M. D., G. N. Ivey, N. L. Jones and O. B. Fringer (2017), Resolving high-frequency internal waves generated at an isolated coral atoll using an unstructured grid ocean model, *Ocean Modelling*, (*under review*)
 
 ## In Preparation
 
