@@ -2,6 +2,8 @@
 ![Me](images/portrait.JPG) 
 <!-- !<div style="text-align:left"><img src ="images/portrait.JPG" align="left"/></div> -->
 
+# Home
+
 I am a physical oceanographer / environmental fluid dynamicist / numericist working on the metocean component of the ARC Industrial Transformation Research Hub for Offshore Floating Facilities at the University of Western Australia. Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at Stanford University, where I developed numerical modelling tools to study the circulation in the bays and estuaries along the Gulf of Mexico coast with the application of quantifying oil spill transport. 
 
 My general research interests include:
@@ -11,10 +13,21 @@ My general research interests include:
 - Nonlinear internal waves
 - Hydrodynamic modelling of coastal ocean and estuarine physics
 - Transport processes in the coastal ocean
+- Transitions to turbulence (e.g., breaking internal waves)
+- Any time-dependent, dynamic problems!
 
 See my [Research](Research.md) page for more details. 
 
 ![Streamlines](images/Art_vs_Science_Rayson_320.jpg)
+
+**Figure: Flow streamlines of Galveston Bay. Published in the [Stanford Art of Science Competition](https://web.stanford.edu/group/mrs/cgi-bin/wordpress/art-of-science/aos-2013/).**
+
+# News
+
+- Check out our award winning video published in the [Gallery of Fluid Motion](https://gfm.aps.org/)!
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/Q8DEwt11E64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
 
 *Matthew D. Rayson*
 

@@ -1,10 +1,12 @@
 # Publications
 
-**Rayson, M. D.**, G. N. Ivey, N. L. Jones and O. B. Fringer (2017), Resolving high-frequency internal waves generated at an isolated coral atoll using an unstructured grid ocean model, *Ocean Modelling*, [link](https://doi.org/j.ocemod.2017.12.007)
+Branson, P. M., **M. D. Rayson**, M. Ghisalberti, G. N. Ivey (2018), The Coexistence of Order and Chaos in C-major, *accepted Physical Review Fluids*
+
+**Rayson, M. D.**, G. N. Ivey, N. L. Jones and O. B. Fringer (2018), Resolving high-frequency internal waves generated at an isolated coral atoll using an unstructured grid ocean model, *Ocean Modelling*, [link](https://doi.org/10.1016/j.ocemod.2017.12.007)
 
 **Rayson, M. D.**, E. S. Gross, R. D. Hetland and O. B. Fringer (2017), Using an isohaline flux analysis to predict the salt content in an unsteady estuary, *Journal of Physical Oceanography*, [link](https://doi.org/10.1175/JPO-D-16-0134.1)
 
-Sasmal, K., E. Masunaga, A. Webb, O. B. Fringer, E. S. Gross, **M. D. Rayson**, H Yamizaki, (2017) A three dimensional numerical study of river plume mixing processes in Otsuchi Bay, Japan, *Journal of Oceanography*, (*accepted*)
+Sasmal, K., E. Masunaga, A. Webb, O. B. Fringer, E. S. Gross, **M. D. Rayson**, H Yamizaki, (2017) A three dimensional numerical study of river plume mixing processes in Otsuchi Bay, Japan, *Journal of Oceanography*, [link](https://doi.org/10.1007/s10872-017-0446-9)
 
 **Rayson, M. D.**, E. S. Gross, R. D. Hetland and O. B. Fringer (2016), Time scales in an unsteady estuary: Galveston Bay, TX, *J. Geophys. Res.*, [link](http://onlinelibrary.wiley.com/doi/10.1002/2015JC011181/full)
 
@@ -19,6 +21,11 @@ Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., (2015), Combining d
 **Rayson, M. D.**, G. N. Ivey, N. L. Jones, M. J. Meuleners, and G. W. Wake (2011), Internal tide dynamics in a topographically complex region: Browse Basin, Australian North West Shelf, *J. Geophys. Res.*, 116, C01016, [link](http://onlinelibrary.wiley.com/doi/10.1029/2009JC005881/abstract). 
 
 ## Submitted / Under Revision
+
+Green, R. H.,  N. L. Jones, **M. D. Rayson**, R. J. Lowe, C. E. Bluteau, G. N. Ivey (2018), Nutrient and phytoplankton fluxes into an isolated coral reef atoll by tidally-driven internal bores, *submitted to Limnology and Oceanography*
+
+Dufois, F, R. J. Lowe, **M. D. Rayson**, P. M Branson, (2018) A numerical study of the tropical cyclone-induced sediment dynamics of the Australian North West Shelf, *submitted to JGR Oceans*
+
 
 ## In Preparation
 
