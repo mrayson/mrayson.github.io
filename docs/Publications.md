@@ -1,4 +1,5 @@
 # Publications
+Dufois, F, R. J. Lowe, **M. D. Rayson**, P. M Branson, (2018) A numerical study of the tropical cyclone-induced sediment dynamics of the Australian North West Shelf, *accepted JGR Oceans*
 
 Branson, P. M., **M. D. Rayson**, M. Ghisalberti, G. N. Ivey (2018), The Coexistence of Order and Chaos in C-major, *accepted Physical Review Fluids*
 
@@ -22,9 +23,9 @@ Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., (2015), Combining d
 
 ## Submitted / Under Revision
 
-Green, R. H.,  N. L. Jones, **M. D. Rayson**, R. J. Lowe, C. E. Bluteau, G. N. Ivey (2018), Nutrient and phytoplankton fluxes into an isolated coral reef atoll by tidally-driven internal bores, *submitted to Limnology and Oceanography*
+**Rayson, M. D.**, N. L. Jones and G. N. Ivey, Observations of large amplitude mode-2 nonlinear internal waves on the Australian North West Shelf, *submitted to the Journal of Physical Oceanography*
 
-Dufois, F, R. J. Lowe, **M. D. Rayson**, P. M Branson, (2018) A numerical study of the tropical cyclone-induced sediment dynamics of the Australian North West Shelf, *submitted to JGR Oceans*
+Green, R. H.,  N. L. Jones, **M. D. Rayson**, R. J. Lowe, C. E. Bluteau, G. N. Ivey (2018), Nutrient and phytoplankton fluxes into an isolated coral reef atoll by tidally-driven internal bores, *submitted to Limnology and Oceanography*
 
 
 ## In Preparation
