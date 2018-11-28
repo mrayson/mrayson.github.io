@@ -1,7 +1,12 @@
 # Publications
-Dufois, F, R. J. Lowe, **M. D. Rayson**, P. M Branson, (2018) A numerical study of the tropical cyclone-induced sediment dynamics of the Australian North West Shelf, *accepted JGR Oceans*
 
-Branson, P. M., **M. D. Rayson**, M. Ghisalberti, G. N. Ivey (2018), The Coexistence of Order and Chaos in C-major, *accepted Physical Review Fluids*
+**Rayson, M. D.**, N. L. Jones and G. N. Ivey, Observations of large amplitude mode-2 nonlinear internal waves on the Australian North West Shelf, *(in press) Journal of Physical Oceanography* 
+
+Green, R. H.,  N. L. Jones, **M. D. Rayson**, R. J. Lowe, C. E. Bluteau, G. N. Ivey (2018), Nutrient and phytoplankton fluxes into an isolated coral reef atoll by tidally-driven internal bores, *Limnology and Oceanography* [link](https://doi.org/10.1002/lno.11051)
+
+Dufois, F, R. J. Lowe, **M. D. Rayson**, P. M Branson, (2018) A numerical study of the tropical cyclone-induced sediment dynamics of the Australian North West Shelf, *JGR Oceans* [link](https://doi.org/10.1029/2018JC013939)
+
+Branson, P. M., **M. D. Rayson**, M. Ghisalberti, G. N. Ivey (2018), The Coexistence of Order and Chaos in C-major, *Physical Review Fluids* [link](https://doi.org/10.1103/APS.DFD.2017.GFM.V0053)
 
 **Rayson, M. D.**, G. N. Ivey, N. L. Jones and O. B. Fringer (2018), Resolving high-frequency internal waves generated at an isolated coral atoll using an unstructured grid ocean model, *Ocean Modelling*, [link](https://doi.org/10.1016/j.ocemod.2017.12.007)
 
@@ -23,10 +28,7 @@ Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., (2015), Combining d
 
 ## Submitted / Under Revision
 
-**Rayson, M. D.**, N. L. Jones and G. N. Ivey, Observations of large amplitude mode-2 nonlinear internal waves on the Australian North West Shelf, *submitted to the Journal of Physical Oceanography*
-
-Green, R. H.,  N. L. Jones, **M. D. Rayson**, R. J. Lowe, C. E. Bluteau, G. N. Ivey (2018), Nutrient and phytoplankton fluxes into an isolated coral reef atoll by tidally-driven internal bores, *submitted to Limnology and Oceanography*
-
+Manderson, A, **M. D. Rayson**, Cripps E. et al., Uncertainty quantification of density and stratification estimates with implications for predicting ocean dynamics, **submitted to Journal of Atmospheric and Oceanographic Technology**.
 
 ## In Preparation
 

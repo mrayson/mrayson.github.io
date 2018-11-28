@@ -4,11 +4,11 @@
 
 # Home
 
-I am a [research fellow(https://research-repository.uwa.edu.au/en/persons/matt-rayson) at the [Oceans Graduate School, University of Western Australia](https://www.uwa.edu.au/ems/Schools/Oceans-Graduate-School).
+I am a [research fellow](https://research-repository.uwa.edu.au/en/persons/matt-rayson) at the [Oceans Graduate School, University of Western Australia](https://www.uwa.edu.au/ems/Schools/Oceans-Graduate-School).
  My research specialises in physical oceanography with an emphasis on numerical modelling and
 observing stratified flows on the continental shelf and coastal regions. My main work focuses on the metocean component of the ARC Industrial Transformation Research Hub for Offshore 
 Floating Facilities at the University of Western Australia. Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at
-Stanford University, where I developed numerical modelling tools to study the circulation in the bays and estuaries along the Gulf of Mexico coast. 
+Stanford University, where I developed numerical modelling tools to study the circulation in the bays and estuaries along the Gulf of Mexico coast. I am an active user and developer of the [SUNTANS](https://github.com/ofringer/suntans) unstructured grid ocean model.
 
 My general research interests include:
 
