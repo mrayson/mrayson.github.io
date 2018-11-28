@@ -1,6 +1,6 @@
 site_name: Matt Rayson's homepage
 docs_dir: docs/
-site_dir: site_tmp/
+site_dir: site/
 
 repo_url: https://github.com/mrayson/mrayson.github.io
 
@@ -12,4 +12,4 @@ pages:
 - Ocean Modelling Stuff: 'oceanmodelling.md'
 
 
-theme: spacelab
+theme: mkdocs
