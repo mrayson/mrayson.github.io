@@ -4,7 +4,11 @@
 
 # Home
 
-I am a physical oceanographer / environmental fluid dynamicist / numericist working on the metocean component of the ARC Industrial Transformation Research Hub for Offshore Floating Facilities at the University of Western Australia. Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at Stanford University, where I developed numerical modelling tools to study the circulation in the bays and estuaries along the Gulf of Mexico coast with the application of quantifying oil spill transport. 
+I am a [research fellow(https://research-repository.uwa.edu.au/en/persons/matt-rayson) at the [Oceans Graduate School, University of Western Australia](https://www.uwa.edu.au/ems/Schools/Oceans-Graduate-School).
+ My research specialises in physical oceanography with an emphasis on numerical modelling and
+observing stratified flows on the continental shelf and coastal regions. My main work focuses on the metocean component of the ARC Industrial Transformation Research Hub for Offshore 
+Floating Facilities at the University of Western Australia. Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at
+Stanford University, where I developed numerical modelling tools to study the circulation in the bays and estuaries along the Gulf of Mexico coast. 
 
 My general research interests include:
 
@@ -24,16 +28,19 @@ See my [Research](Research.md) page for more details.
 
 # News
 
-- Check out our award winning video published in the [Gallery of Fluid Motion](https://gfm.aps.org/)!
+- November 2018: I am currently on parental leave until mid-May 2019.
+
+- November 2017: Check out our award winning video published in the [Gallery of Fluid Motion](https://gfm.aps.org/)!
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/Q8DEwt11E64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ---
 
-*Matthew D. Rayson*
+*Matthew D. Rayson, PhD*
 
 *Research Fellow*
 
-*School of Civil Environmental and Mining Engineering and the Oceans Institute*
+*Oceans Graduate School and the Oceans Institute*
 
 *University of Western Australia*
 
