@@ -9,7 +9,8 @@ pages:
 - Publications: 'Publications.md'
 - CV: 'CV.md'
 - Research: 'Research.md'
-- Ocean Modelling Stuff: 'oceanmodelling.md'
+- Ocean Modelling: 'oceanmodelling.md'
+- Internal Waves: 'internalwaves.md'
 
 
 theme: spacelab

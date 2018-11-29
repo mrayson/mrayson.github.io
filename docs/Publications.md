@@ -28,11 +28,14 @@ Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., (2015), Combining d
 
 ## Submitted / Under Revision
 
-Manderson, A, **M. D. Rayson**, Cripps E. et al., Uncertainty quantification of density and stratification estimates with implications for predicting ocean dynamics, **submitted to Journal of Atmospheric and Oceanographic Technology**.
+Manderson, A, **M. D. Rayson**, E. Cripps, M. Girolami, J. P. Gosling, M. Hodkiewicz, N. L. Jones, G. N. Ivey, Uncertainty quantification of density and stratification estimates with implications for predicting ocean dynamics, *submitted to Journal of Atmospheric and Oceanic Technology*.
 
-## In Preparation
+Gong, Y., **M. D. Rayson**, N. L. Jones, G. N. Ivey, The effects of remote internal tides on continental slope internal tide generation, *submitted to Journal of Physical Oceanography*
+
 
 ## Datasets
+
+**Rayson, M. D., Jones, N. L. , Ivey, G. N. (22 May 2018): Observations of large-amplitude mode-2 nonlinear internal waves on the Australian North West Shelf, The University of Western Australia. [link](https://doi.org/10.4225/23/5afbf8fc55ed1)
 
 **Rayson, M. D.**, Gross, E.S., Hetland, R. D., Fringer, O.B.. (2017) Hourly output from a three-dimensional hydrodynamic simulation of Galveston Bay, Texas, for the period March-August 2009 using the unstructured SUNTANS model . Gulf of Mexico Integrated Spill Response Consortium (GISR). [DOI: 10.7266/N77H1H0B](https://data.gulfresearchinitiative.org/data/R1.x137.000:0017)
 

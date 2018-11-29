@@ -49,6 +49,8 @@ November 2007 to December 2011
 
 ## *Conference and Symposium Presentations*
 
+- Australian Coastal Ocean Modelling and Observations workshop, Toward an internal tide climatological atlas for Northern Australia, Canberra, Australia, October 2018
+- 2018 Ocean Sciences Meeting, Investigation of nonlinear internal wave structure with a triangular-shaped mooring array, Portland, USA, February 2018
 - VIII International Symposium on Stratified Flows, Observations of high frequency internal waves and strong turbulent mixing in a channel flow between two coral atolls, San Diego, USA, September 2016
 - SIAM Geosciences 2015, Challenges in Three-Dimensional Hydrodynamic Modelling of the Shallow Bays and Estuaries Along the Gulf of Mexico Coast, Stanford University, Stanford, California, July 2015
 - Gordon Research Seminar on Coastal Ocean Modeling, Time scales in an unsteady estuary, University of New England, Maine, June 2015
@@ -86,6 +88,8 @@ November 2007 to December 2011
 
 ## *Awards Received*
 
+2017 American Physics Society Gallery of Fluid Motion video winner
+
 2011 University of WA Postgraduate Travel Award
 
 2008 - 2011 Australian Postgraduate Award
@@ -93,6 +97,7 @@ November 2007 to December 2011
 ## *Professional Memberships*
 
 Australian Fluid Mechanics Society
+
 American Geophysical Union
 
 
