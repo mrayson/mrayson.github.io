@@ -2,6 +2,8 @@
 ![Me](images/portrait.JPG) 
 <!-- !<div style="text-align:left"><img src ="images/portrait.JPG" align="left"/></div> -->
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6049-8600" href="https://orcid.org/0000-0002-6049-8600" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6049-8600</a></div>
+
 # Home
 
 I am a [research fellow](https://research-repository.uwa.edu.au/en/persons/matt-rayson) at the [Oceans Graduate School, University of Western Australia](https://www.uwa.edu.au/ems/Schools/Oceans-Graduate-School).

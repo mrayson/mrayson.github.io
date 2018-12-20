@@ -1,4 +1,5 @@
-# Publications
+## Publications
+
 
 **Rayson, M. D.**, N. L. Jones and G. N. Ivey, Observations of large amplitude mode-2 nonlinear internal waves on the Australian North West Shelf, *(in press) Journal of Physical Oceanography* 
 
