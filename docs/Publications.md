@@ -1,7 +1,7 @@
 ## Publications
 
 
-**Rayson, M. D.**, N. L. Jones and G. N. Ivey, Observations of large amplitude mode-2 nonlinear internal waves on the Australian North West Shelf, *(in press) Journal of Physical Oceanography* 
+**Rayson, M. D.**, N. L. Jones and G. N. Ivey, Observations of large amplitude mode-2 nonlinear internal waves on the Australian North West Shelf, *Journal of Physical Oceanography* [link](https://doi.org/10.1175/JPO-D-18-0097.1)
 
 Green, R. H.,  N. L. Jones, **M. D. Rayson**, R. J. Lowe, C. E. Bluteau, G. N. Ivey (2018), Nutrient and phytoplankton fluxes into an isolated coral reef atoll by tidally-driven internal bores, *Limnology and Oceanography* [link](https://doi.org/10.1002/lno.11051)
 
