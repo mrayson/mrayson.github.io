@@ -1,8 +1,8 @@
 ## Publications
 
-Manderson, A, **M. D. Rayson**, E. Cripps, M. Girolami, J. P. Gosling, M. Hodkiewicz, N. L. Jones, G. N. Ivey, (2019) Uncertainty quantification of density and stratification estimates with implications for predicting ocean dynamics, *accepted in Journal of Atmospheric and Oceanic Technology*.
+Manderson, A, **M. D. Rayson**, E. Cripps, M. Girolami, J. P. Gosling, M. Hodkiewicz, N. L. Jones, G. N. Ivey, (2019) Uncertainty quantification of density and stratification estimates with implications for predicting ocean dynamics, *Journal of Atmospheric and Oceanic Technology*[link](https://journals.ametsoc.org/doi/full/10.1175/JTECH-D-18-0200.1)
 
-Gong, Y., **M. D. Rayson**, N. L. Jones, G. N. Ivey (2019), The effects of remote internal tides on continental slope internal tide generation, *accepted in Journal of Physical Oceanography*
+Gong, Y., **M. D. Rayson**, N. L. Jones, G. N. Ivey (2019), The effects of remote internal tides on continental slope internal tide generation, *Journal of Physical Oceanography* [link](https://journals.ametsoc.org/doi/full/10.1175/JPO-D-18-0180.1)
 
 
 **Rayson, M. D.**, N. L. Jones and G. N. Ivey (2019), Observations of large amplitude mode-2 nonlinear internal waves on the Australian North West Shelf, *Journal of Physical Oceanography* [link](https://doi.org/10.1175/JPO-D-18-0097.1)
