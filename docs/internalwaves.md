@@ -14,12 +14,12 @@ Currently, there is a [presentation describing the methodology](http://imos.org.
 
 ## Download
 
- - Gridded climatological atlas [netcdf file (~3GB)](https://cloudstor.aarnet.edu.au/plus/s/0YHxCbFJyRVoFiY)
+ - Gridded climatological atlas [netcdf file (~3GB)](https://cloudstor.aarnet.edu.au/plus/s/EVrsiRODvAXqJrQ)
  - GIS imagery of the semidiurnal, mode-one amplitude [geotiff files](https://cloudstor.aarnet.edu.au/plus/s/So11Y29m5BXwIIJ)
 
-## Scripts [TBC]
+## Scripts [under construction]
 
-*Several driver scripts and example notebooks will be put onto [github](https://github.com/mrayson) in the near future...*
+ - Some example notebooks for viewing the data and making predictions are on [github](https://github.com/mrayson/iwatlas)
 
 ---
 
