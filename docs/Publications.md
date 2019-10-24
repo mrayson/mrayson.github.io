@@ -1,6 +1,8 @@
 ## Publications
 
-Manderson, A, **M. D. Rayson**, E. Cripps, M. Girolami, J. P. Gosling, M. Hodkiewicz, N. L. Jones, G. N. Ivey, (2019) Uncertainty quantification of density and stratification estimates with implications for predicting ocean dynamics, *Journal of Atmospheric and Oceanic Technology*[link](https://journals.ametsoc.org/doi/full/10.1175/JTECH-D-18-0200.1)
+Rogers, J. S., **M. D. Rayson**, D. S. Ko, K. B. Winters, O. B. Fringer, A framework for seamless one-way nesting of internal wave-resolving ocean models, *Ocean Modelling* [link](https://doi.org/10.1016/j.ocemod.2019.101462)
+
+Manderson, A, **M. D. Rayson**, E. Cripps, M. Girolami, J. P. Gosling, M. Hodkiewicz, N. L. Jones, G. N. Ivey, (2019) Uncertainty quantification of density and stratification estimates with implications for predicting ocean dynamics, *Journal of Atmospheric and Oceanic Technology* [link](https://journals.ametsoc.org/doi/full/10.1175/JTECH-D-18-0200.1)
 
 Gong, Y., **M. D. Rayson**, N. L. Jones, G. N. Ivey (2019), The effects of remote internal tides on continental slope internal tide generation, *Journal of Physical Oceanography* [link](https://journals.ametsoc.org/doi/full/10.1175/JPO-D-18-0180.1)
 
@@ -33,7 +35,6 @@ Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., (2015), Combining d
 
 ## Submitted / Under Revision
 
-Rogers, J. S., **M. D. Rayson**, D. S. Ko, K. B. Winters, O. B. Fringer, A framework for seamless one-way nesting of internal wave-resolving ocean models, *submitted to Ocean Modelling**
 
 ## Datasets
 
