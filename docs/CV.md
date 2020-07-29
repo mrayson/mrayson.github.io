@@ -49,6 +49,8 @@ November 2007 to December 2011
 
 ## *Conference and Symposium Presentations*
 
+- Australian Meteorological and Oceanographic Society Annual Meeting, Fremantle, Western Australia, February 2020
+- Ocean Sciences Meeting, San Diego, California, February 2020
 - Australian Coastal Ocean Modelling and Observations workshop, Toward an internal tide climatological atlas for Northern Australia, Canberra, Australia, October 2018
 - 2018 Ocean Sciences Meeting, Investigation of nonlinear internal wave structure with a triangular-shaped mooring array, Portland, USA, February 2018
 - VIII International Symposium on Stratified Flows, Observations of high frequency internal waves and strong turbulent mixing in a channel flow between two coral atolls, San Diego, USA, September 2016

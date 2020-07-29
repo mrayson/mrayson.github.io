@@ -22,7 +22,7 @@ Predicting the transport and fate of pollutants in the natural environment is an
 Tides on the Australian North-West Shelf and the Indo-Australian Basin are generally
 large in amplitude and their interaction with the shelf topography generates internal tides.
 Observations and numerical modelling has revealed the ubiquity of these waves in this region - this
-was the main topic of my PhD thesis and its subsequent [publications](Publications.html). 
+was the main topic of my PhD thesis and its subsequent [publications](Publications.md). 
 
 <!--This animation of the high-passed filtered (150 km spatial filter) sea surface expression
 from a 3D ocean model demonstrates the prevalence of these waves in the ocean.-->
@@ -42,7 +42,7 @@ and therefore other processes such as wind stress, river discharge and surface h
 cooling are important drivers of estuarine circulation.
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/ttiHKM8DuzA" frameborder="0" allowfullscreen></iframe>
- 
+
 <!--
 <img src="images/SUNTANSMeshBasemap.jpg" alt="GalvestonMap" height="320" width="320"> 
 
@@ -71,6 +71,8 @@ The model is being evaluated using data from: NOAA, Texas Water Development Boar
 [Back to top](#top)
 # Ocean response to tropical cyclone forcing<a id="ocean-response-to-tropical-cyclones"></a>
 **Collaborators:** Greg Ivey, Ryan Lowe, Nicole Jones (*Univ. of Western Australia*)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DxF5ww2Vus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Back to top](#top)
 
