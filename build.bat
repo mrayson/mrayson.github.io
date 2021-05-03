@@ -36,7 +36,7 @@ mkdocs build
 xcopy site . /e /i /y
 
 START mkdocs serve
-"C:\Program Files (x86)\Mozilla Firefox\firefox.exe" http://127.0.0.1:8000
+"C:\Program Files\Mozilla Firefox\firefox.exe" http://127.0.0.1:8000
 pause
 
 REM #sitedir=site

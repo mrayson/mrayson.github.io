@@ -1,11 +1,14 @@
 ## Publications
 
-Rogers, J. S., **M. D. Rayson**, D. S. Ko, K. B. Winters, O. B. Fringer, A framework for seamless one-way nesting of internal wave-resolving ocean models, *Ocean Modelling* [link](https://doi.org/10.1016/j.ocemod.2019.101462)
+Gong, Y., **M. D. Rayson**, N. L. Jones, G. N. Ivey, (2021) Directional decomposition of internal tides propagating from multiple generation sites, *Ocean Modelling* [link](https://doi.org/10.1016/j.ocemod.2021.101801)
+
+Jones, N, J, **Rayson, M. D,** G. N. Ivey, S. Kelly, (2020) Mixing Driven by Breaking Nonlinear Internal Waves, *Geophysical Research Letters*[link](https://doi.org/10.1029/2020GL089591)
+
+Rogers, J. S., **M. D. Rayson**, D. S. Ko, K. B. Winters, O. B. Fringer, (2019) A framework for seamless one-way nesting of internal wave-resolving ocean models, *Ocean Modelling* [link](https://doi.org/10.1016/j.ocemod.2019.101462)
 
 Manderson, A, **M. D. Rayson**, E. Cripps, M. Girolami, J. P. Gosling, M. Hodkiewicz, N. L. Jones, G. N. Ivey, (2019) Uncertainty quantification of density and stratification estimates with implications for predicting ocean dynamics, *Journal of Atmospheric and Oceanic Technology* [link](https://journals.ametsoc.org/doi/full/10.1175/JTECH-D-18-0200.1)
 
 Gong, Y., **M. D. Rayson**, N. L. Jones, G. N. Ivey (2019), The effects of remote internal tides on continental slope internal tide generation, *Journal of Physical Oceanography* [link](https://journals.ametsoc.org/doi/full/10.1175/JPO-D-18-0180.1)
-
 
 **Rayson, M. D.**, N. L. Jones and G. N. Ivey (2019), Observations of large amplitude mode-2 nonlinear internal waves on the Australian North West Shelf, *Journal of Physical Oceanography* [link](https://doi.org/10.1175/JPO-D-18-0097.1)
 
@@ -37,10 +40,7 @@ Makarynskyy O., Makarynska D., **Rayson M. D.**, Langtry S., (2015), Combining d
 
 Filippi, M., A. Hadjighasem, **M. D. Rayson**, I. I. Rypina, G. N. Ivey, R. J. Lowe, J. P. Gilmour, T. Peacock, Investigating transport in a tidally-driven coral atoll flow using Lagrangian Coherent Structures, *under review Limnology and Oceanography*
 
-Jones, N, J, **Rayson, M. D,** G. N. Ivey, S. Kelly, Mixing Driven by Breaking Nonlinear Internal Waves, *submitted to Geophysical Research Letters*
-
-Gong, Y., **M. D. Rayson**, N. L. Jones, G. N. Ivey,  Directional decomposition of internal tides propagating from multiple generation sites, *submitted to Ocean Modelling*
-
+**M. D. Rayson**, N. L. Jones, G. N. Ivey, Y Gong (2021) A non-stationary harmonic model for seasonal internal tide amplitude prediction, *submitted to JGR-Oceans* [link](https://doi.org/10.1002/essoar.10504834.1)
 
 
 ## Non-peer Reviewed Conference Papers

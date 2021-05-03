@@ -9,78 +9,65 @@
         
         <link rel="shortcut icon" href="../img/favicon.ico">
         <title>Internal Waves - Matt Rayson's homepage</title>
-        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/color-brewer.min.css">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
 
         <script src="../js/jquery-1.10.2.min.js" defer></script>
-        <script src="../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="../js/bootstrap.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-
-                <!-- Collapsed navigation -->
-                <div class="navbar-header">
-                    <!-- Expander button -->
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="..">Matt Rayson's homepage</a>
-                </div>
+                <a class="navbar-brand" href="..">Matt Rayson's homepage</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
-                <div class="navbar-collapse collapse">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li >
-                                <a href="..">Home</a>
+                            <li class="navitem">
+                                <a href=".." class="nav-link">Home</a>
                             </li>
-                            <li >
-                                <a href="../Publications/">Publications</a>
+                            <li class="navitem">
+                                <a href="../Publications/" class="nav-link">Publications</a>
                             </li>
-                            <li >
-                                <a href="../CV/">CV</a>
+                            <li class="navitem">
+                                <a href="../CV/" class="nav-link">CV</a>
                             </li>
-                            <li >
-                                <a href="../Research/">Research</a>
+                            <li class="navitem">
+                                <a href="../Research/" class="nav-link">Research</a>
                             </li>
-                            <li class="active">
-                                <a href="./">Internal Waves</a>
+                            <li class="navitem active">
+                                <a href="./" class="nav-link">Internal Waves</a>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li >
-                                <a rel="next" href="../Research/">
+                            <li class="nav-item">
+                                <a rel="prev" href="../Research/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li class="disabled">
-                                <a rel="prev" >
+                            <li class="nav-item">
+                                <a rel="next" class="nav-link disabled">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://github.com/mrayson/mrayson.github.io/edit/master/docs/internalwaves.md"><i class="fa fa-github"></i> Edit on GitHub</a>
+                            <li class="nav-item">
+                                <a href="https://github.com/mrayson/mrayson.github.io/edit/master/docs/internalwaves.md" class="nav-link"><i class="fa fa-github"></i> Edit on GitHub</a>
                             </li>
                     </ul>
                 </div>
@@ -88,18 +75,48 @@
         </div>
 
         <div class="container">
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#internal-wave-climatology">Internal Wave Climatology</a></li>
-            <li><a href="#documentation">Documentation</a></li>
-            <li><a href="#download">Download</a></li>
-            <li><a href="#scripts-under-construction">Scripts [under construction]</a></li>
-        <li class="main "><a href="#weakly-nonlinear-internal-wave-kdv-solver">Weakly nonlinear internal wave (KdV) solver</a></li>
-            <li><a href="#code">Code</a></li>
-        <li class="main "><a href="#ocean-modelling">Ocean Modelling</a></li>
-    </ul>
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#internal-wave-climatology" class="nav-link">Internal Wave Climatology</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#code-and-documentation" class="nav-link">Code and Documentation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#download" class="nav-link">Download</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#weakly-nonlinear-internal-wave-kdv-solver" class="nav-link">Weakly nonlinear internal wave (KdV) solver</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#code" class="nav-link">Code</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#ocean-modelling" class="nav-link">Ocean Modelling</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
 </div></div>
-                <div class="col-md-9" role="main">
+                    <div class="col-md-9" role="main">
 
 <p>This page contains links to various resources for modelling and analysing oceanographic observations to understand internal waves.</p>
 <hr />
@@ -107,24 +124,20 @@
 <p>We have created an internal tide climatological atlas for northern Australia using output from a 3D hydrostatic ocean model - SUNTANS. Ocean state variables (currently only density) were decomposed into tidal harmonic consituents and vertical normal modes to provide succinct maps of the internal tide amplitude for different time periods. </p>
 <iframe width="771" height="514" src="https://www.youtube.com/embed/fvUI8mFfbic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h2 id="documentation">Documentation</h2>
+<h2 id="code-and-documentation">Code and Documentation</h2>
+<p>Code with binder examples is available on <a href="https://github.com/mrayson/iwatlas">github</a></p>
 <p>Currently, there is a <a href="http://imos.org.au/fileadmin/user_upload/shared/IMOS%20General/ACOMO/ACOMO_2018/Powerpoints/Wednesday/Rayson_compressed.pdf">presentation describing the methodology</a> that I gave at the <a href="http://imos.org.au/calendar/events/acomo/acomo2018/">Australian Coastal Ocean Modelling and Observation</a> workshop in Canberra, October 2018.</p>
 <h2 id="download">Download</h2>
 <ul>
-<li>Gridded climatological atlas <a href="https://cloudstor.aarnet.edu.au/plus/s/EVrsiRODvAXqJrQ">netcdf file (~3GB)</a></li>
-<li>GIS imagery of the semidiurnal, mode-one amplitude <a href="https://cloudstor.aarnet.edu.au/plus/s/So11Y29m5BXwIIJ">geotiff files</a></li>
-</ul>
-<h2 id="scripts-under-construction">Scripts [under construction]</h2>
-<ul>
-<li>Some example notebooks for viewing the data and making predictions are on <a href="https://github.com/mrayson/iwatlas">github</a></li>
+<li>Links to download the climatology data can be viewed in the github <a href="https://github.com/mrayson/iwatlas">iwatlas</a> repository.</li>
 </ul>
 <hr />
 <h1 id="weakly-nonlinear-internal-wave-kdv-solver">Weakly nonlinear internal wave (KdV) solver</h1>
-<p>Code for calculating numerical solutions to the Korteweg - de Vries (KdV) equation for internal gravity waves in a continuously stratified fluid is available on <a href="https://bitbucket.org/mrayson">bitbucket</a>.</p>
+<p>Code for calculating numerical solutions to the Korteweg - de Vries (KdV) equation for internal gravity waves in a continuously stratified fluid is available on <a href="https://github.com/mrayson/iwaves">github</a>.</p>
 <p><img alt="KdV" src="../images/KdV_init_2.PNG" /></p>
 <h2 id="code">Code</h2>
 <ul>
-<li><a href="https://bitbucket.org/mrayson/iwaves">KdV solver code</a></li>
+<li><a href="https://github.com/mrayson/iwaves">KdV solver code</a></li>
 <li><a href="https://bitbucket.org/mrayson/run-kdvshelf">Driver application for running the kdv model via command line with text file inputs</a></li>
 </ul>
 <hr />
@@ -145,8 +158,8 @@
 - MATLAB and python tools for setting up Regional Ocean Modeling System ([ROMS](http://www.myroms.org)) data
     -   See my [ROMS python module](http://sourceforge.net/p/suntans/code/HEAD/tree/python/DataIO/romsio.py). 
 -->
-
 <iframe width="480" height="360" src="https://www.youtube.com/embed/icbtv6PKj2g" frameborder="0" allowfullscreen></iframe></div>
+            </div>
         </div>
 
         <footer class="col-md-12">
@@ -160,21 +173,21 @@
         <script src="../js/base.js" defer></script>
         <script src="../search/main.js" defer></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog">
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
             </div>
             <div class="modal-body">
                 <p>
                     From here you can search these documents. Enter
                     your search terms below.
                 </p>
-                <form role="form">
+                <form>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
                 </form>
                 <div id="mkdocs-search-results"></div>
@@ -183,12 +196,12 @@
             </div>
         </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
             </div>
             <div class="modal-body">
               <table class="table">

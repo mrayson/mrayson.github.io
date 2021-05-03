@@ -8,30 +8,27 @@ We have created an internal tide climatological atlas for northern Australia usi
 
 <iframe width="771" height="514" src="https://www.youtube.com/embed/fvUI8mFfbic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Documentation
+## Code and Documentation
+
+Code with binder examples is available on [github](https://github.com/mrayson/iwatlas)
 
 Currently, there is a [presentation describing the methodology](http://imos.org.au/fileadmin/user_upload/shared/IMOS%20General/ACOMO/ACOMO_2018/Powerpoints/Wednesday/Rayson_compressed.pdf) that I gave at the [Australian Coastal Ocean Modelling and Observation](http://imos.org.au/calendar/events/acomo/acomo2018/) workshop in Canberra, October 2018.
 
 ## Download
 
- - Gridded climatological atlas [netcdf file (~3GB)](https://cloudstor.aarnet.edu.au/plus/s/EVrsiRODvAXqJrQ)
- - GIS imagery of the semidiurnal, mode-one amplitude [geotiff files](https://cloudstor.aarnet.edu.au/plus/s/So11Y29m5BXwIIJ)
-
-## Scripts [under construction]
-
- - Some example notebooks for viewing the data and making predictions are on [github](https://github.com/mrayson/iwatlas)
+ - Links to download the climatology data can be viewed in the github [iwatlas](https://github.com/mrayson/iwatlas) repository.
 
 ---
 
 # Weakly nonlinear internal wave (KdV) solver
 
-Code for calculating numerical solutions to the Korteweg - de Vries (KdV) equation for internal gravity waves in a continuously stratified fluid is available on [bitbucket](https://bitbucket.org/mrayson).
+Code for calculating numerical solutions to the Korteweg - de Vries (KdV) equation for internal gravity waves in a continuously stratified fluid is available on [github](https://github.com/mrayson/iwaves).
 
 ![KdV](images/KdV_init_2.PNG)
 
 ## Code
 
- - [KdV solver code](https://bitbucket.org/mrayson/iwaves)
+ - [KdV solver code](https://github.com/mrayson/iwaves)
  - [Driver application for running the kdv model via command line with text file inputs](https://bitbucket.org/mrayson/run-kdvshelf)
 
 ---

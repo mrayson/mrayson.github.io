@@ -6,7 +6,7 @@
 
 # Home
 
-I am a [research fellow](https://research-repository.uwa.edu.au/en/persons/matt-rayson) at the [Oceans Graduate School, University of Western Australia](https://www.uwa.edu.au/ems/Schools/Oceans-Graduate-School).
+I am a [senior research fellow](https://research-repository.uwa.edu.au/en/persons/matt-rayson) at the [Oceans Graduate School, University of Western Australia](https://www.uwa.edu.au/ems/Schools/Oceans-Graduate-School).
  My research specialises in physical oceanography with an emphasis on numerical modelling and
 observing stratified flows on the continental shelf and coastal regions. My main work focuses on the metocean component of the [ARC Industrial Transformation Research Hub for Offshore 
 Floating Facilities](https://www.offshorehub.edu.au/). Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at
@@ -20,6 +20,7 @@ My general research interests include:
 - Hydrodynamic modelling of coastal ocean and estuarine physics
 - Transport processes in the coastal ocean
 - Transitions to turbulence (e.g., breaking internal waves)
+- Uncertainty quantification of ocean dynamical quantities
 - Any time-dependent, dynamic problems!
 
 See my [Research](Research.md) and [Internal Waves](internalwaves.md) pages for more details. 
@@ -40,7 +41,7 @@ See my [Research](Research.md) and [Internal Waves](internalwaves.md) pages for 
 
 *Matthew D. Rayson, PhD*
 
-*Research Fellow*
+*Senior Research Fellow*
 
 *Oceans Graduate School and the Oceans Institute*
 

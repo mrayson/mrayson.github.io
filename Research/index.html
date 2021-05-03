@@ -9,78 +9,65 @@
         
         <link rel="shortcut icon" href="../img/favicon.ico">
         <title>Research - Matt Rayson's homepage</title>
-        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/color-brewer.min.css">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
 
         <script src="../js/jquery-1.10.2.min.js" defer></script>
-        <script src="../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="../js/bootstrap.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body>
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-
-                <!-- Collapsed navigation -->
-                <div class="navbar-header">
-                    <!-- Expander button -->
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="..">Matt Rayson's homepage</a>
-                </div>
+                <a class="navbar-brand" href="..">Matt Rayson's homepage</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
-                <div class="navbar-collapse collapse">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li >
-                                <a href="..">Home</a>
+                            <li class="navitem">
+                                <a href=".." class="nav-link">Home</a>
                             </li>
-                            <li >
-                                <a href="../Publications/">Publications</a>
+                            <li class="navitem">
+                                <a href="../Publications/" class="nav-link">Publications</a>
                             </li>
-                            <li >
-                                <a href="../CV/">CV</a>
+                            <li class="navitem">
+                                <a href="../CV/" class="nav-link">CV</a>
                             </li>
-                            <li class="active">
-                                <a href="./">Research</a>
+                            <li class="navitem active">
+                                <a href="./" class="nav-link">Research</a>
                             </li>
-                            <li >
-                                <a href="../internalwaves/">Internal Waves</a>
+                            <li class="navitem">
+                                <a href="../internalwaves/" class="nav-link">Internal Waves</a>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li >
-                                <a rel="next" href="../CV/">
+                            <li class="nav-item">
+                                <a rel="prev" href="../CV/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li >
-                                <a rel="prev" href="../internalwaves/">
+                            <li class="nav-item">
+                                <a rel="next" href="../internalwaves/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://github.com/mrayson/mrayson.github.io/edit/master/docs/Research.md"><i class="fa fa-github"></i> Edit on GitHub</a>
+                            <li class="nav-item">
+                                <a href="https://github.com/mrayson/mrayson.github.io/edit/master/docs/Research.md" class="nav-link"><i class="fa fa-github"></i> Edit on GitHub</a>
                             </li>
                     </ul>
                 </div>
@@ -88,14 +75,36 @@
         </div>
 
         <div class="container">
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#internal-wave-dynamics-near-complex-topography">Internal wave dynamics near complex topography</a></li>
-        <li class="main "><a href="#estuarine-circulation-in-galveston-bay">Estuarine circulation in Galveston Bay</a></li>
-        <li class="main "><a href="#ocean-response-to-tropical-cyclone-forcing">Ocean response to tropical cyclone forcing</a></li>
-    </ul>
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#internal-wave-dynamics-near-complex-topography" class="nav-link">Internal wave dynamics near complex topography</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#estuarine-circulation-in-galveston-bay" class="nav-link">Estuarine circulation in Galveston Bay</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#ocean-response-to-tropical-cyclone-forcing" class="nav-link">Ocean response to tropical cyclone forcing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
 </div></div>
-                <div class="col-md-9" role="main">
+                    <div class="col-md-9" role="main">
 
 <!--[Oil Spill Modelling](#oil-spill)
 
@@ -115,7 +124,6 @@ Predicting the transport and fate of pollutants in the natural environment is an
 *Figure: Animation showing the release of a passive tracer in the SUNTANS model from the March 22nd 2014 barge spill site in Galveston Bay, TX. The tracer has an initial concentration of 1.0 and the color scale shows up to 1/1000th of the initial value. All times are in GMT. Note that since this tracer is passive, it does not behave exactly as oil would, in particular these are no buoyancy or weathering effects; there is no additional influence of wind stress on the plume. We maintain no guarantee as to the validity of these results. *
 
 -->
-
 <h1 id="internal-wave-dynamics-near-complex-topography">Internal wave dynamics near complex topography<a id="internal-wave-dynamics-near-complex-topography"></a></h1>
 <p><strong>Collaborators:</strong> Greg Ivey, Nicole Jones (<em>Univ. of Western Australia</em>)</p>
 <p>Tides on the Australian North-West Shelf and the Indo-Australian Basin are generally
@@ -126,7 +134,6 @@ was the main topic of my PhD thesis and its subsequent <a href="../Publications/
 from a 3D ocean model demonstrates the prevalence of these waves in the ocean.-->
 
 <!-- <iframe width="480" height="360" src="https://www.youtube.com/embed/7DOCA_cUcYY" frameborder="0" allowfullscreen></iframe>-->
-
 <iframe width="480" height="360" src="https://www.youtube.com/embed/T9jZW0B5js4" frameborder="0" allowfullscreen></iframe>
 
 <h1 id="estuarine-circulation-in-galveston-bay">Estuarine circulation in Galveston Bay<a id="estuarine-circulation-in-galveston-bay"></a></h1>
@@ -139,7 +146,7 @@ cooling are important drivers of estuarine circulation.</p>
 <iframe width="480" height="360" src="https://www.youtube.com/embed/ttiHKM8DuzA" frameborder="0" allowfullscreen></iframe>
 
 <!--
-<img src="images/SUNTANSMeshBasemap.jpg" alt="GalvestonMap" height="320" width="320">
+<img src="images/SUNTANSMeshBasemap.jpg" alt="GalvestonMap" height="320" width="320"> 
 
 *SUNTANS triangular mesh grid*
 
@@ -169,6 +176,7 @@ The model is being evaluated using data from: NOAA, Texas Water Development Boar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6DxF5ww2Vus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p><a href="#top">Back to top</a></p></div>
+            </div>
         </div>
 
         <footer class="col-md-12">
@@ -182,21 +190,21 @@ The model is being evaluated using data from: NOAA, Texas Water Development Boar
         <script src="../js/base.js" defer></script>
         <script src="../search/main.js" defer></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog">
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
             </div>
             <div class="modal-body">
                 <p>
                     From here you can search these documents. Enter
                     your search terms below.
                 </p>
-                <form role="form">
+                <form>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
                 </form>
                 <div id="mkdocs-search-results"></div>
@@ -205,12 +213,12 @@ The model is being evaluated using data from: NOAA, Texas Water Development Boar
             </div>
         </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
             </div>
             <div class="modal-body">
               <table class="table">

@@ -9,78 +9,65 @@
         
         <link rel="shortcut icon" href="img/favicon.ico">
         <title>Matt Rayson's homepage</title>
-        <link href="css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/font-awesome.min.css" rel="stylesheet">
         <link href="css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/color-brewer.min.css">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
 
         <script src="js/jquery-1.10.2.min.js" defer></script>
-        <script src="js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="js/bootstrap.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
     <body class="homepage">
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-
-                <!-- Collapsed navigation -->
-                <div class="navbar-header">
-                    <!-- Expander button -->
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href=".">Matt Rayson's homepage</a>
-                </div>
+                <a class="navbar-brand" href=".">Matt Rayson's homepage</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
-                <div class="navbar-collapse collapse">
+                <div id="navbar-collapse" class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li class="active">
-                                <a href=".">Home</a>
+                            <li class="navitem active">
+                                <a href="." class="nav-link">Home</a>
                             </li>
-                            <li >
-                                <a href="Publications/">Publications</a>
+                            <li class="navitem">
+                                <a href="Publications/" class="nav-link">Publications</a>
                             </li>
-                            <li >
-                                <a href="CV/">CV</a>
+                            <li class="navitem">
+                                <a href="CV/" class="nav-link">CV</a>
                             </li>
-                            <li >
-                                <a href="Research/">Research</a>
+                            <li class="navitem">
+                                <a href="Research/" class="nav-link">Research</a>
                             </li>
-                            <li >
-                                <a href="internalwaves/">Internal Waves</a>
+                            <li class="navitem">
+                                <a href="internalwaves/" class="nav-link">Internal Waves</a>
                             </li>
                         </ul>
 
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li class="disabled">
-                                <a rel="next" >
+                            <li class="nav-item">
+                                <a rel="prev" class="nav-link disabled">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
-                            <li >
-                                <a rel="prev" href="Publications/">
+                            <li class="nav-item">
+                                <a rel="next" href="Publications/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://github.com/mrayson/mrayson.github.io/edit/master/docs/index.md"><i class="fa fa-github"></i> Edit on GitHub</a>
+                            <li class="nav-item">
+                                <a href="https://github.com/mrayson/mrayson.github.io/edit/master/docs/index.md" class="nav-link"><i class="fa fa-github"></i> Edit on GitHub</a>
                             </li>
                     </ul>
                 </div>
@@ -88,22 +75,40 @@
         </div>
 
         <div class="container">
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#home">Home</a></li>
-        <li class="main "><a href="#news">News</a></li>
-    </ul>
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#home" class="nav-link">Home</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#news" class="nav-link">News</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
 </div></div>
-                <div class="col-md-9" role="main">
+                    <div class="col-md-9" role="main">
 
 <!-- ![Lee Waves](images/YosemiteLeeWave480.JPG "Atmospheric lee waves over Half Dome") -->
+<p><img alt="Me" src="images/portrait.JPG" /> </p>
+<!-- !<div style="text-align:left"><img src ="images/portrait.JPG" align="left"/></div> -->
 
-<p><img alt="Me" src="images/portrait.JPG" /> 
-<!-- !<div style="text-align:left"><img src ="images/portrait.JPG" align="left"/></div> --></p>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6049-8600" href="https://orcid.org/0000-0002-6049-8600" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6049-8600</a></div>
 
 <h1 id="home">Home</h1>
-<p>I am a <a href="https://research-repository.uwa.edu.au/en/persons/matt-rayson">research fellow</a> at the <a href="https://www.uwa.edu.au/ems/Schools/Oceans-Graduate-School">Oceans Graduate School, University of Western Australia</a>.
+<p>I am a <a href="https://research-repository.uwa.edu.au/en/persons/matt-rayson">senior research fellow</a> at the <a href="https://www.uwa.edu.au/ems/Schools/Oceans-Graduate-School">Oceans Graduate School, University of Western Australia</a>.
  My research specialises in physical oceanography with an emphasis on numerical modelling and
 observing stratified flows on the continental shelf and coastal regions. My main work focuses on the metocean component of the <a href="https://www.offshorehub.edu.au/">ARC Industrial Transformation Research Hub for Offshore 
 Floating Facilities</a>. Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at
@@ -116,6 +121,7 @@ Stanford University, where I developed numerical modelling tools to study the ci
 <li>Hydrodynamic modelling of coastal ocean and estuarine physics</li>
 <li>Transport processes in the coastal ocean</li>
 <li>Transitions to turbulence (e.g., breaking internal waves)</li>
+<li>Uncertainty quantification of ocean dynamical quantities</li>
 <li>Any time-dependent, dynamic problems!</li>
 </ul>
 <p>See my <a href="Research/">Research</a> and <a href="internalwaves/">Internal Waves</a> pages for more details. </p>
@@ -134,14 +140,12 @@ Stanford University, where I developed numerical modelling tools to study the ci
 
 <hr />
 <p><em>Matthew D. Rayson, PhD</em></p>
-<p><em>Research Fellow</em></p>
+<p><em>Senior Research Fellow</em></p>
 <p><em>Oceans Graduate School and the Oceans Institute</em></p>
 <p><em>University of Western Australia</em></p>
 <p><em>matt dot rayson at gmail dot com</em></p>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130082072-1"></script>
-
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -149,6 +153,7 @@ Stanford University, where I developed numerical modelling tools to study the ci
 
   gtag('config', 'UA-130082072-1');
 </script></div>
+            </div>
         </div>
 
         <footer class="col-md-12">
@@ -162,21 +167,21 @@ Stanford University, where I developed numerical modelling tools to study the ci
         <script src="js/base.js" defer></script>
         <script src="search/main.js" defer></script>
 
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog">
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
             </div>
             <div class="modal-body">
                 <p>
                     From here you can search these documents. Enter
                     your search terms below.
                 </p>
-                <form role="form">
+                <form>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
                 </form>
                 <div id="mkdocs-search-results"></div>
@@ -185,12 +190,12 @@ Stanford University, where I developed numerical modelling tools to study the ci
             </div>
         </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
             </div>
             <div class="modal-body">
               <table class="table">
@@ -230,6 +235,6 @@ Stanford University, where I developed numerical modelling tools to study the ci
 </html>
 
 <!--
-MkDocs version : 1.0.4
-Build Date UTC : 2020-07-29 13:58:51
+MkDocs version : 1.1.2
+Build Date UTC : 2021-05-03 13:33:10.989063+00:00
 -->
