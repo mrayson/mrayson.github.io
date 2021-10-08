@@ -1,5 +1,8 @@
 #!/usr/bin/bash
-echo `Use the batch file instead`
+mkdocs build
+cp -r site/ .
+mkdocs serve & firefox http://127.0.0.1:8000
+#echo `Use the batch file instead`
 #set -x
 ## Cannot build in our own directory
 #MAKEDIR=/home/suntans/Share/code/

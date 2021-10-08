@@ -8,8 +8,7 @@
 
 I am a [senior research fellow](https://research-repository.uwa.edu.au/en/persons/matt-rayson) at the [Oceans Graduate School, University of Western Australia](https://www.uwa.edu.au/ems/Schools/Oceans-Graduate-School).
  My research specialises in physical oceanography with an emphasis on numerical modelling and
-observing stratified flows on the continental shelf and coastal regions. My main work focuses on the metocean component of the [ARC Industrial Transformation Research Hub for Offshore 
-Floating Facilities](https://www.offshorehub.edu.au/). Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at
+observing stratified flows on the continental shelf and coastal regions. My main work focuses on the oceanography component of the ARC Research Hub for Transforming energy Infrastructure through Digital Engineering [TIDE](https://www.tide.edu.au/). Previously, I was a postdoctoral scholar in the Bob and Norma Street Environmental Fluid Mechanics Laboratory at
 Stanford University, where I developed numerical modelling tools to study the circulation in the bays and estuaries along the Gulf of Mexico coast. I am an active user and developer of the [SUNTANS](https://github.com/ofringer/suntans) unstructured grid ocean model.
 
 My general research interests include:
@@ -30,6 +29,10 @@ See my [Research](Research.md) and [Internal Waves](internalwaves.md) pages for 
 **Figure: Flow streamlines of Galveston Bay. Published in the [Stanford Art of Science Competition](https://web.stanford.edu/group/mrs/cgi-bin/wordpress/art-of-science/aos-2013/).**
 
 # News
+
+- November 2020: We were awarded an ARC Discovery Project on *Quantifying vertical and lateral ocean transport due to fronts and eddies* 
+
+- Early 2020: We (Shane Keating @ UNSW, Nicole Jones @ UWA, Callum Shakespeare @ ANU and myself) were added to the Surface Water Ocean Topograhy (SWOT) satellite mission Science Team with our project [Untangling deterministic and non-deterministic ocean processes in SWOT observations](https://swot.jpl.nasa.gov/science/science-team-projects/?order=created_at+desc&per_page=50&page=0&search=&fs=&fc=229&ft=&dp=&category=229)
 
 - November 2018: I am currently on parental leave until mid-May 2019.
 
