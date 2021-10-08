@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 mkdocs build
-cp -r site/ .
+cp -r site/* ./
 mkdocs serve & firefox http://127.0.0.1:8000
 #echo `Use the batch file instead`
 #set -x
