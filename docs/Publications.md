@@ -1,5 +1,11 @@
 ## Publications
 
+ 23. Janekovic, I, **M.D. Rayson**, et al, 4D-Var data assimilation using satellite sea surface temperature to improve the tidally driven interior ocean dynamics in the Indo-Australian Basin, *Ocean Modelling* [https://doi.org/10.1016/j.ocemod.2022.101969](https://doi.org/10.1016/j.ocemod.2022.101969)
+
+ 22. Zulberti, A. P., N. L. Jones, G. N. Ivey, **M. D. Rayson**, Mean and Turbulent Characteristics of a Bottom Mixing-Layer Forced by a Strong Surface Tide and Large Amplitude Internal Waves, *JGR Oceans* [https://doi.org/10.1029/2020JC017055](https://doi.org/10.1029/2020JC017055)
+
+ 21. Edge, W., **M. D. Rayson**, N. L. Jones, G. N. Ivey, Calibrated suspended sediment observations beneath large amplitude non-linear internal waves, *JGR Oceans* [https://doi.org/10.1029/2021JC017538](https://doi.org/10.1029/2021JC017538)
+
  20. Filippi, M., A. Hadjighasem, **M. D. Rayson**, I. I. Rypina, G. N. Ivey, R. J. Lowe, J. P. Gilmour, T. Peacock (2021), Investigating transport in a tidally-driven coral atoll flow using Lagrangian Coherent Structures, *Limnology and Oceanography* [link](https://doi.org/10.1002/lno.11939)
 
  19. **M. D. Rayson**, N. L. Jones, G. N. Ivey, Y Gong (2021) A seasonal harmonic model for internal tide amplitude prediction, *JGR-Oceans* [link](https://doi.org/10.1029/2021JC017570)
@@ -41,11 +47,8 @@
  1. **Rayson, M. D.**, G. N. Ivey, N. L. Jones, M. J. Meuleners, and G. W. Wake (2011), Internal tide dynamics in a topographically complex region: Browse Basin, Australian North West Shelf, *J. Geophys. Res.*, 116, C01016, [link](http://onlinelibrary.wiley.com/doi/10.1029/2009JC005881/abstract). 
 
 ## Submitted / Under Revision
-Edge, W., **M. D. Rayson**, N. L. Jones, G. N. Ivey, Calibrated suspended sediment observations beneath large amplitude non-linear internal waves, *under review JGR Oceans*
 
-Janekovic, I, **M.D. Rayson**, et al, 4D-Var data assimilation using satellite sea surface temperature to improve the tidally driven interior ocean dynamics in the Indo-Australian Basin, *under review Ocean Modelling*
 
-Zulberti, A. P., N. L. Jones, G. N. Ivey, **M. D. Rayson**, 4D-Var data assimilation using satellite sea surface temperature to improve the tidally driven interior ocean dynamics in the Indo-Australian Basin, *under review JGR Oceans*
 
 
 

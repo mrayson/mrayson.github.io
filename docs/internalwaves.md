@@ -39,7 +39,7 @@ I have developed several tools for the pre/post-processing of numerical model an
  oceanographic measurment data. The majority of these are written in python and are hosted on either [github](https://github.com/mrayson) or
  [bitbucket](https://bitbucket.org/mrayson). This includes:
 
-- Python oceanographic data analysis toolbox [SODA](https://github.com/mrayson/soda)
+- Python oceanographic data analysis toolbox [SFODA](https://github.com/mrayson/sfoda)
 - SUNTANS ocean model [github page](https://github.com/ofringer/suntans)
     - There is some documentation for setting up SUNTANS with python [here](http://suntanspy.readthedocs.io/en/latest/)
 
